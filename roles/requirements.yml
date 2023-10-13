@@ -1,5 +1,5 @@
 ---
 roles:
-- src: https://github.com/linux-system-roles/rhc.git
-  name: linux_system_roles.rhc
-  version: 1.2.5
+- src: https://github.com/redhat-sap/sap-rhsm.git
+  name: redhat_sap.sap_rhsm
+  version: v1.1.2
