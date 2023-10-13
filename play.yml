@@ -1,4 +1,4 @@
 ---
 - hosts: all
   roles:
-    - { role: linux_system_roles.rhc }
+    - { role: redhat_sap.sap_rhsm }
