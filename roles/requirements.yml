@@ -4,11 +4,5 @@ roles:
   name: storage
 
 collections:
-- name: community.general
-  version: ">=6.6.0"
-- name: ansible.posix
-  version: 1.3.0
-- name: openstack.cloud
-  version: 1.7.2
-- name: ansible.utils
-  version: 2.11.0
+  - name: ansible.posix
+  - name: ansible.utils
