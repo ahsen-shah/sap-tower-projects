@@ -1,7 +1,7 @@
 # from GitHub
 roles:
 - src: https://github.com/linux-system-roles/storage
-  name: linux_system_roles.storage
+  name: storage
 
 collections:
 - name: community.general
