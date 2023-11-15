@@ -3,13 +3,3 @@ roles:
 - src: https://github.com/redhat-sap/sap-rhsm.git
   name: redhat_sap.sap_rhsm
   version: v1.1.2
-
-collections:
-- name: community.general
-  version: ">=6.6.0"
-- name: ansible.posix
-  version: 1.3.0
-- name: openstack.cloud
-  version: 1.7.2
-- name: ansible.utils
-  version: 2.11.0
